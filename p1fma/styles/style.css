@@ -1,0 +1,11 @@
+span{				
+	width:15%;
+	min-width: 240px;
+	display: block;
+	font-size: 0.75rem;
+	color: white;
+	background-color: #900;
+	border: 2px solid transparent;			
+}
+
+
